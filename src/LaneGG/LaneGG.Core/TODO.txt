@@ -1,0 +1,14 @@
+﻿
+
+Design First
+- Search Bar
+-- Champion (Levenstein ~ 3/5)
+--- Icon / Abilities / Level stats
+-- Player Lookup (direct/exact search)
+--- Game history (W/L), Rank, Icon
+
+Hookup API & Expand Above Pages
+
+Authentication
+- Login / Registration
+
